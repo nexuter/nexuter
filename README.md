@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent)
-
 ### Hi there 👋
 This is my blockchain project archive.
 I'm interested in finance and technology.
@@ -19,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=00539C&height=200&section=footer)

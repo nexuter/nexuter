@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my blockchain project archive.
+This is my project archive.
 I'm interested in finance and technology.
 
 
